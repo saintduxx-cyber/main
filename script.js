@@ -211,6 +211,8 @@ const translations = {
         game11Button: "Open",
         game12Button: "Open",
         game13Button: "Open",
+        game14Title: "Lucky Jet",
+        game14Button: "Open",
         telegramButton: "Go to telegram (RU)",
         telegramButton2: "Go to telegram (EN)"
     },
@@ -241,6 +243,8 @@ const translations = {
         game11Button: "Открыть",
         game12Button: "Открыть",
         game13Button: "Открыть",
+        game14Title: "Lucky Jet",
+        game14Button: "Открыть",
         telegramButton: "Перейти в телеграм (RU)",
         telegramButton2: "Перейти в телеграм (EN)"
     },
@@ -271,6 +275,8 @@ const translations = {
         game11Button: "खोलें",
         game12Button: "खोलें",
         game13Button: "खोलें",
+        game14Title: "Lucky Jet",
+        game14Button: "खोलें",
         telegramButton: "टेलीग्राम पर जाएं (RU)",
         telegramButton2: "टेलीग्राम पर जाएं (EN)"
     },
@@ -301,6 +307,8 @@ const translations = {
         game11Button: "Abrir",
         game12Button: "Abrir",
         game13Button: "Abrir",
+        game14Title: "Lucky Jet",
+        game14Button: "Abrir",
         telegramButton: "Ir para o Telegram (RU)",
         telegramButton2: "Ir para o Telegram (EN)"
     },
@@ -331,6 +339,8 @@ const translations = {
         game11Button: "Abrir",
         game12Button: "Abrir",
         game13Button: "Abrir",
+        game14Title: "Lucky Jet",
+        game14Button: "Abrir",
         telegramButton: "Ir a Telegram (RU)",
         telegramButton2: "Ir a Telegram (EN)"
     },
@@ -361,6 +371,8 @@ const translations = {
         game11Button: "Ochish",
         game12Button: "Ochish",
         game13Button: "Ochish",
+        game14Title: "Lucky Jet",
+        game14Button: "Ochish",
         telegramButton: "Telegramga o'tish (RU)",
         telegramButton2: "Telegramga o'tish (EN)"
     },
@@ -391,6 +403,8 @@ const translations = {
         game11Button: "Aç",
         game12Button: "Aç",
         game13Button: "Aç",
+        game14Title: "Lucky Jet",
+        game14Button: "Aç",
         telegramButton: "Teleqrama keç (RU)",
         telegramButton2: "Teleqrama keç (EN)"
     },
@@ -421,6 +435,8 @@ const translations = {
         game11Button: "Aç",
         game12Button: "Aç",
         game13Button: "Aç",
+        game14Title: "Lucky Jet",
+        game14Button: "Aç",
         telegramButton: "Telegrame git (RU)",
         telegramButton2: "Telegrame git (EN)"
     },
@@ -451,6 +467,8 @@ const translations = {
         game11Button: "Abrir",
         game12Button: "Abrir",
         game13Button: "Abrir",
+        game14Title: "Lucky Jet",
+        game14Button: "Abrir",
         telegramButton: "Ir para o Telegram (RU)",
         telegramButton2: "Ir para o Telegram (EN)"
     },
@@ -481,6 +499,8 @@ const translations = {
         game11Button: "فتح",
         game12Button: "فتح",
         game13Button: "فتح",
+        game14Title: "Lucky Jet",
+        game14Button: "فتح",
         telegramButton: "اذهب إلى Telegram (RU)",
         telegramButton2: "اذهب إلى Telegram (EN)"
     }
