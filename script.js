@@ -548,6 +548,9 @@ function changeLanguage(lang) {
 
         document.getElementById('game13-button').innerText = translations[lang].game12Button;
 
+        document.getElementById('game14-title').innerText = translations[lang].game14Title;
+        document.getElementById('game14-button').innerText = translations[lang].game14Button;
+
         // Обновляем текст для кнопок Telegram
         if (document.getElementById('telegram-button')) {
             document.getElementById('telegram-button').innerText = translations[lang].telegramButton;
